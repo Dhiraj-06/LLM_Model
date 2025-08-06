@@ -4,3 +4,5 @@ llama-cpp-python==0.2.61
 PyPDF2==3.0.1
 numpy==1.26.4
 huggingface_hub==0.14.1
+flask==2.3.2
+waitress
