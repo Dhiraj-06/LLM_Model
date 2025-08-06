@@ -167,7 +167,7 @@ def main():
     """
     # --- IMPORTANT: UPDATE THESE PATHS ---
     # Update this to the absolute path of your policy document PDF
-    pdf_path = r"D:\Personal_Codes\Unstop_hackathon\data\research_paper.pdf" 
+    pdf_path = r"D:\Personal_Codes\Hackathon\data\Arogya_Sanjeevani_Policy.pdf" 
     # Update this to the absolute path of your downloaded Llama model file
     model_path = r"D:\Personal_Codes\Unstop_hackathon\model\mistral-7b-instruct-v0.1.Q4_K_M.gguf"
 
